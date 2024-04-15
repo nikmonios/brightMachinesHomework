@@ -1,4 +1,4 @@
-# Instructions
+# Instructions for running the notebook locally
 
 ## Virtual environment creation
 ```
@@ -22,10 +22,12 @@ $ source venv/bin/activate
 
 ```
 
-## Try the notebook!
+## Try the notebook (optional) !
 
-## API example
+
+## API example is included
 
 ### API.py has the definition of the API
+Simple API to retrieve the most important data from the dataset. Can be expanded
 
 ### extract_data.py has an example on how to use the API
