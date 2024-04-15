@@ -20,7 +20,7 @@ $ source venv/bin/activate
 ```
 (venv) pip install -r requirements.txt
 
-
+```
 
 ## Try the notebook!
 
